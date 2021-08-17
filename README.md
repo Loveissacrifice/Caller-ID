@@ -21,7 +21,7 @@ Mozilla Public License for more details.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/agentnova/KnowhoBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Loveissacrifice/Caller-ID)
 
 #### Watch video
 
